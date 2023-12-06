@@ -1,0 +1,5 @@
+min_avoid_space_length: 0.5
+detect_distance: 6
+oa_threshold_: 3
+emergency_stop_threshold_: 0.4
+DDEBUG: 0
