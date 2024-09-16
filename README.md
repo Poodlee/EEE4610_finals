@@ -1,6 +1,8 @@
 # :pushpin: 사막개미 기반 배달 RC카 만들기 
-![rc_test_bed-removebg-preview](https://github.com/Poodlee/readme-test-/assets/81359054/b09750d4-bb31-424d-afce-8b6a205e3326)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81359054/b09750d4-bb31-424d-afce-8b6a205e3326" alt="image" width="300"/>
+</p>
 
 </br>
 
