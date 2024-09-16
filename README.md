@@ -29,7 +29,7 @@
 해당 프로젝트의 경우 사막 개미의 이동 방식을 모티브로 한 내용으로 아래 표와 같이 각각의 사막 개미의 이동 방식을 RC카에 맞게 수정했습니다.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/278697bb-5272-4273-9954-a66483683fab" alt="image" width="300"/>
+  <img src="https://github.com/user-attachments/assets/278697bb-5272-4273-9954-a66483683fab" alt="image" width="600"/>
 </p>
 
 자세한 내용은 아래 보고서에 작성했습니다.
