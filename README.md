@@ -102,8 +102,9 @@ position update의 경우에는 lidar와 주어진 map을 기준으로 하는 Lo
 
 결과 사진
 
-<img src="https://github.com/Poodlee/readme-test-/assets/81359054/cfa36979-744c-4766-b707-80de191726e0" width="350" height="350"/>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e68fe49-5883-490d-83ee-d04b9fbeba66" alt="image" width="300"/>
+</p>
 
 </div>
 
