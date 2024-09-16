@@ -103,7 +103,9 @@ position update의 경우에는 lidar와 주어진 map을 기준으로 하는 Lo
 
 영상
 
-![ezgif com-video-to-gif-converter](https://github.com/Poodlee/readme-test-/assets/81359054/64d5514e-856e-44ee-9422-a3534d3df85b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5cdcc248-510a-4051-98a3-b4b48075e3fe" alt="image" width="400"/>
+</p>
 
 결과 사진
 
