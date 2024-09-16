@@ -39,10 +39,7 @@
 전체적으로는 아래와 같이 node에 희망하는 좌표를 넣으면 장애물을 피해 해당 위치에 도달한 이후 다시 원래 위치로 돌아오게 하는 것이었습니다.
 영상에서 왼쪽은 gazebo로 simulation한 내용이고 오른쪽은 모터의 통신 값을 기준으로 path integration한 결과입니다. 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6b62866a-584d-447f-b2d4-bf38c66750fe" alt="image" width="600"/>
-</p>
-
+https://github.com/user-attachments/assets/e07aa5f4-e6fa-45b6-ae40-c25e4a5ed3c7
 
 
 ### 4.2. Path Integration 📍[코드 확인](https://github.com/Poodlee/EEE4610_finals/blob/main/catkin_ws/src/desert_ant_navigation_node.cpp#L324)
