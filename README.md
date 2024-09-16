@@ -94,9 +94,9 @@ Update dr_cmd_ with new speed, steer, and current time
 ### 4.3. Obstacle Avoidance 📍[코드 확인](https://github.com/Poodlee/EEE4610_finals/blob/main/catkin_ws/src/desert_ant_navigation_node.cpp#L362)
 전방에 장애물이 등장할 시에 차량의 폭과 비교해 지나갈 수 있는 Open 플레이스 중 목적지와 방향이 최대한 유사한 곳으로 회피하게 설정했습니다. 
 
-![obstacle avoidance](https://github.com/Poodlee/readme-test-/assets/81359054/99d7aafa-3192-4c6e-96ca-f809d69cf7c6)
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2aabe56d-2e78-46d3-8b8c-8ed8eded335c" alt="image" width="400"/>
+</p>
 
 ### 4.4. Position Update 
 position update의 경우에는 lidar와 주어진 map을 기준으로 하는 Localization에 대해서 진행했습니다. 아래 결과 사진을 보게 되면 실제로 더 정확하나 연산이 오래 걸려 저속에서는 사용했으나 고속에서는 Path integration 만으로 진행했습니다. 
