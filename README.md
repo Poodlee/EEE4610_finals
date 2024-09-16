@@ -104,8 +104,9 @@ position update의 경우에는 lidar와 주어진 map을 기준으로 하는 Lo
 영상
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5cdcc248-510a-4051-98a3-b4b48075e3fe" alt="image" width="400"/>
+  <img src="https://github.com/user-attachments/assets/edaee407-9105-4f87-8d4e-79066e1bb9f1" alt="image" width="400"/>
 </p>
+
 
 결과 사진
 
