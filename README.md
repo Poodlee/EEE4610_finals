@@ -1,7 +1,7 @@
 # :pushpin: 사막개미 기반 배달 RC카 만들기 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/81359054/b09750d4-bb31-424d-afce-8b6a205e3326" alt="image" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a9556ae4-aa6c-4526-9497-780cc274e060" alt="image" width="300"/>
 </p>
 
 </br>
