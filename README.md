@@ -28,11 +28,12 @@
 <div markdown="1">
 해당 프로젝트의 경우 사막 개미의 이동 방식을 모티브로 한 내용으로 아래 표와 같이 각각의 사막 개미의 이동 방식을 RC카에 맞게 수정했습니다.
 
-![사막개미표](https://github.com/Poodlee/readme-test-/assets/81359054/777d1b8d-9d5f-4082-b09e-bc18259692db)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/278697bb-5272-4273-9954-a66483683fab" alt="image" width="300"/>
+</p>
 
 자세한 내용은 아래 보고서에 작성했습니다.
-[[종합설계보고서].pdf](https://github.com/Poodlee/readme-test-/files/14969347/default.pdf)
+[[종합설계보고서].pdf](https://github.com/user-attachments/files/17011959/7.pdf)
 
 ### 4.1. 전체 흐름
 전체적으로는 아래와 같이 node에 희망하는 좌표를 넣으면 장애물을 피해 해당 위치에 도달한 이후 다시 원래 위치로 돌아오게 하는 것이었습니다.
